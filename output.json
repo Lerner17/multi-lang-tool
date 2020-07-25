@@ -1,0 +1,18 @@
+{
+    "button_help": {
+        "en_US": "Help us",
+        "ru_RU": "Помочь нам"
+    },
+    "button_open_char": {
+        "en_US": "Open cht",
+        "ru_RU": "Открыть чат"
+    },
+    "email_input": {
+        "en_US": "Email",
+        "ru_RU": "Email" 
+    },
+    "password_input": {
+        "en_US": "Password",
+        "ru_RU": "Пароль" 
+    }
+}
